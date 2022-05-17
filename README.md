@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccgeonhee&layout=compact)](https://github.com/ccgeonhee/github-readme-stats)
-![su kang's github stats](https://github-readme-stats.vercel.app/api?username=ccgeonhee&show_icons=true&theme=radical)
+![ccgeonhee's github stats](https://github-readme-stats.vercel.app/api?username=ccgeonhee&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ccgeonhee&theme=onedark)](https://github.com/ccgeonhee/github-profile-trophy)
